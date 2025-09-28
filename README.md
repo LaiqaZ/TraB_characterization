@@ -1,4 +1,4 @@
-This repository contains two Python scripts developed during my TraB internship to analyze AICE13_RLB1-9_QDN99831.1(putative TraB) homologs in Streptomyces and related taxa. The tools work with WHOOPER metadata (TSV output) and provide two main functions:
+This repository contains two Python scripts developed during my internship in MAIAGE, INRAE, for *Characterization of TraB in Streptomyces* to analyze AICE13_RLB1-9_QDN99831.1(putative TraB) homologs in Streptomyces and related taxa. The tools work with WHOOPER metadata (TSV output) and provide two main functions:
 
 Pairing AICE13_RLB1-9_QDN99831.1 hits with nearby integrases using genomic coordinates from NCBI RefSeq.
 
